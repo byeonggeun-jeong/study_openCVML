@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Trackbar Event/Trackbar Event.vcxproj" Id="6b12d5de-70bd-480f-a02b-3260bcdf6af2" />
+</Solution>

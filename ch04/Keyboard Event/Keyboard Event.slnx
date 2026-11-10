@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Keyboard Event/Keyboard Event.vcxproj" Id="0cc6e5af-4e27-4e9a-844c-a09e5878094e" />
+</Solution>

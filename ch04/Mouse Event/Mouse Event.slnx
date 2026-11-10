@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Mouse Event/Mouse Event.vcxproj" Id="c5221452-a51f-4764-972f-f42bd90cd2a7" />
+</Solution>

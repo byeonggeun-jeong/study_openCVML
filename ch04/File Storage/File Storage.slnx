@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="File Storage/File Storage.vcxproj" Id="2046524a-84c4-4897-99ae-690d7ff36d65" />
+</Solution>
